@@ -1,3 +1,3 @@
-# ALuce_Tutorial1
+# ALuce_Challenge1
 
-Unity Tutorial No. 1: Roll a Ball for DIG3480
+I accidently recopied Tutorial1 into the Challenge1 Branch, but the Challenge1 files are in the folder named _Branch_Challenge1
